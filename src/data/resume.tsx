@@ -38,7 +38,7 @@ skills: [
  navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/AldienResumeATS.pdf", icon: FileText, label: "Resume" },
-    { href: "https://drive.google.com/drive/folders/1xT34zFxnnRKm4m9ppz3NdxleIjhvJqh-?usp=drive_link", icon: Briefcase , label: "Portofolio" },
+    { href: "https://drive.google.com/drive/folders/1xT34zFxnnRKm4m9ppz3NdxleIjhvJqh-?usp=drive_link", icon: FileText , label: "Portofolio" },
   ],
   contact: {
     email: "kaaldien@gmail.com", //[cite: 1]
