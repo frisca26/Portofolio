@@ -13,15 +13,15 @@ import { Java } from "@/components/ui/svgs/java";
 import { Csharp } from "@/components/ui/svgs/csharp";
 
 export const DATA = {
-  name: "Khalid Aldien", //
-  initials: "KA",
+  name: "Frisca Balqis'tya Dharma", //
+  initials: "FBA",
   url: "https://khalidaldien.vercel.app", //
   location: "Kab. Bandung, Jawa Barat", //
   locationLink: "https://www.google.com/maps/place/Bandung",
   description:
-    "Graphic Designer & Digital Content Specialist dengan pengalaman dalam merancang strategi visual dan konten digital.", //
+    "Digital Strategist & Content Creator dengan pengalaman dalam mengembangkan konsep, branding, dan konten multimedia.", //
   summary:
-    "Graphic Designer & Content Creator dengan pengalaman lebih dari 4 tahun dalam merancang strategi visual dan konten digital untuk brand e-commerce, yayasan, dan perusahaan swasta. Mampu meningkatkan engagement dan brand awareness melalui perencanaan konten end-to-end, desain visual, serta pemanfaatan tools AI untuk mempercepat produksi konten tanpa mengorbankan kualitas.", //[cite: 1]
+    "Digital Strategist & Content Creator dengan pengalaman dalam mengembangkan konsep, strategi konten, dan visual untuk membangun digital presence yang konsisten. Terbiasa mengelola proses kreatif dari ide, produksi, hingga publikasi.", //[cite: 1]
   avatarUrl: "/aldienpp.jpg",
 skills: [
   { name: "Graphic Design & Visual Branding", icon: null },
