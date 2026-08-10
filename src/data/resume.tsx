@@ -79,17 +79,17 @@ skills: [
 
  work: [
     {
-      company: "CV. Arsa Samudera Pratama", //[cite: 1]
-      href: "#",
-      badges: [],
-      location: "Bandung, Jawa Barat",
-      title: "Creative Editor & Designer", //[cite: 1]
-      logoUrl: "CVARSA-LOGO.png",
-      start: "Januari 2026", //[cite: 1]
-      end: "Sekarang", //[cite: 1]
-      description:
-        "Mengelola konsistensi identitas visual dan estetika brand di seluruh platform e-commerce dan media sosial untuk 3 brand (Latela Hijab, Hamst Official, Camcam Baby). Menyusun timeline konten harian, mingguan, dan bulanan, mengimplementasikan AI-assisted design workflow, serta merancang aset overlay kustom untuk TikTok Live.", //[cite: 1]
-    },
+      company: "Koperasi Desa Merah Putih (KDMP) Cinunuk",[cite: 3]
+    href: "#",
+    badges: [],
+    location: "Bandung, Jawa Barat",[cite: 1]
+    title: "Staf Tata Kelola Digital dan Konten Kreator",[cite: 3]
+    logoUrl: "KOPDES-LOGO.jpg",
+    start: "Agustus 2025",[cite: 3]
+    end: "Desember 2025",[cite: 3]
+    description:
+      "Membuat dan mengelola konten digital serta strategi branding lembaga di media sosial. Memproduksi konten multimedia (video shooting & editing) untuk promosi, serta berkontribusi meningkatkan reputasi lembaga hingga terpilih menjadi narasumber & tuan rumah pelatihan KEMENDAGRI.",[cite: 3]
+  },
     {
       company: "Yayasan Mutiara Titipan Illahi", //[cite: 1]
       href: "#",
