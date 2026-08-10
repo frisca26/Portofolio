@@ -1,159 +1,344 @@
 import { Icons } from "@/components/icons";
+
 import { HomeIcon, FileText, Globe } from "lucide-react";
 
+import { ReactLight } from "@/components/ui/svgs/reactLight";
+
+import { NextjsIconDark } from "@/components/ui/svgs/nextjsIconDark";
+
+import { Typescript } from "@/components/ui/svgs/typescript";
+
+import { Nodejs } from "@/components/ui/svgs/nodejs";
+
+import { Python } from "@/components/ui/svgs/python";
+
+import { Golang } from "@/components/ui/svgs/golang";
+
+import { Postgresql } from "@/components/ui/svgs/postgresql";
+
+import { Docker } from "@/components/ui/svgs/docker";
+
+import { Kubernetes } from "@/components/ui/svgs/kubernetes";
+
+import { Java } from "@/components/ui/svgs/java";
+
+import { Csharp } from "@/components/ui/svgs/csharp";
+
+
+
 export const DATA = {
-  name: "Frisca Balqis'tya Dharma, S.Sos.",[cite: 1]
+
+  name: "Frisca Balqis'tya Dharma", //
+
   initials: "FBD",
-  url: "https://portofolio-h09ld3a4s-frisca.vercel.app",
-  location: "Bandung, Jawa Barat",[cite: 1]
+
+  url: "https://khalidaldien.vercel.app", //
+
+  location: "Kab. Bandung, Jawa Barat", //
+
   locationLink: "https://www.google.com/maps/place/Bandung",
+
   description:
-    "Digital Strategist, Content Creator & Multimedia Specialist dengan latar belakang Administrasi Publik.",[cite: 1]
+
+    "Graphic Designer & Digital Content Specialist dengan pengalaman dalam merancang strategi visual dan konten digital.", //
+
   summary:
-    "Multimedia Content Creator lulusan Sarjana Administrasi Publik dengan pengalaman lebih dari 2 tahun dalam mengelola media sosial, strategi konten, dan produksi multimedia (videografi, editing, copywriting) untuk institusi maupun klien freelance. Berpengalaman menyusun rencana konten, membangun branding digital, serta mendukung kegiatan kehumasan. Memiliki kemampuan komunikasi yang kuat, public speaking, dan manajemen proyek yang diasah melalui kepemimpinan organisasi.",[cite: 1]
-  avatarUrl: "/frisca-profile.jpg",
-  skills: [
-    { name: "Content Strategy & Planning", icon: null },[cite: 1]
-    { name: "Multimedia Production (Videography & Editing)", icon: null },[cite: 1]
-    { name: "Social Media Management & Branding", icon: null },[cite: 1]
-    { name: "Copywriting & Visual Creative", icon: null },[cite: 1]
-    { name: "Public Relations & Communications", icon: null },[cite: 1]
-    { name: "Event Planning & Coordination", icon: null },[cite: 1]
-    { name: "Product Strategy & Market Research", icon: null },[cite: 1]
-    { name: "Data & Administration Management", icon: null },[cite: 1]
-  ],
-  navbar: [
+
+    "Graphic Designer & Content Creator dengan pengalaman lebih dari 4 tahun dalam merancang strategi visual dan konten digital untuk brand e-commerce, yayasan, dan perusahaan swasta. Mampu meningkatkan engagement dan brand awareness melalui perencanaan konten end-to-end, desain visual, serta pemanfaatan tools AI untuk mempercepat produksi konten tanpa mengorbankan kualitas.", //[cite: 1]
+
+  avatarUrl: "/aldienpp.jpg",
+
+skills: [
+
+  { name: "Graphic Design & Visual Branding", icon: null },
+
+  { name: "Video Editing", icon: null },
+
+  { name: "Content Strategy & Planning", icon: null },
+
+  { name: "Social Media Management", icon: null },
+
+  { name: "AI-Assisted Design Workflow", icon: null },
+
+  { name: "Photography & Videography", icon: null },
+
+  { name: "UI Design", icon: null },
+
+  { name: "Project Management", icon: null },
+
+  { name: "Basic Drone Pilot", icon: null },
+
+  { name: "Basic Web Development", icon: null },
+
+],
+
+ navbar: [
+
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/FriscaResume.pdf", icon: FileText, label: "Resume" },
-    { href: "https://www.linkedin.com/in/friscabalqistyadharma", icon: Globe, label: "LinkedIn" },[cite: 1]
+
+    { href: "/AldienResumeATS.pdf", icon: FileText, label: "Resume" },
+
+    { href: "https://bit.ly/m/alldien", icon: Globe, label: "Link" },
+
   ],
+
   contact: {
-    email: "friscaworkspace@gmail.com",[cite: 1]
-    tel: "+62881023827191",[cite: 1]
+
+    email: "kaaldien@gmail.com", //[cite: 1]
+
+    tel: "+628814522919", //[cite: 1]
+
     social: {
+
       LinkedIn: {
+
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/friscabalqistyadharma",[cite: 1]
+
+        url: "http://www.linkedin.com/in/khalidaldien",
+
         icon: Icons.linkedin,
+
         navbar: true,
+
       },
+
+      Instagram: {
+
+        name: "Instagram",
+
+        url: "http://instagram.com/alldie.n",
+
+        icon: Icons.instagram,
+
+        navbar: true,
+
+      },
+
+      Youtube: {
+
+        name: "Youtube",
+
+        url: "https://www.youtube.com/@alldie.n",
+
+        icon: Icons.youtube,
+
+        navbar: true,
+
+      },
+
+      TikTok: {
+
+        name: "TikTok",
+
+        url: "https://www.tiktok.com/@alldie.n",
+
+        icon: Icons.tiktok,
+
+        navbar: true,
+
+      },
+
       email: {
+
         name: "Send Email",
-        url: "mailto:friscaworkspace@gmail.com",[cite: 1]
+
+        url: "mailto:kaaldien@gmail.com",
+
         icon: Icons.email,
-        navbar: true,
+
+        navbar: false,
+
       },
+
     },
+
   },
 
-  work: [
+
+
+ work: [
+
     {
-      company: "Koperasi Desa Kelurahan Merah Putih",[cite: 1]
+
+      company: "CV. Arsa Samudera Pratama", //[cite: 1]
+
       href: "#",
+
       badges: [],
-      location: "Cinunuk, Bandung",[cite: 1]
-      title: "Staf Tata Kelola Digital & Konten Kreator",[cite: 1]
-      logoUrl: "/logo-koperasi.png",
-      start: "Agustus 2025",[cite: 1]
-      end: "Desember 2025",[cite: 1]
+
+      location: "Bandung, Jawa Barat",
+
+      title: "Creative Editor & Designer", //[cite: 1]
+
+      logoUrl: "CVARSA-LOGO.png",
+
+      start: "Januari 2026", //[cite: 1]
+
+      end: "Sekarang", //[cite: 1]
+
       description:
-        "Mengelola seluruh konten digital dan strategi branding lembaga di media sosial. Memproduksi konten multimedia end-to-end (pengambilan video hingga editing) serta berkontribusi meningkatkan reputasi lembaga hingga terpilih menjadi narasumber & tuan rumah pelatihan Kementerian Dalam Negeri (KEMENDAGRI).",[cite: 1]
+
+        "Mengelola konsistensi identitas visual dan estetika brand di seluruh platform e-commerce dan media sosial untuk 3 brand (Latela Hijab, Hamst Official, Camcam Baby). Menyusun timeline konten harian, mingguan, dan bulanan, mengimplementasikan AI-assisted design workflow, serta merancang aset overlay kustom untuk TikTok Live.", //[cite: 1]
+
     },
+
     {
-      company: "Yayasan Mutiara Titipan Ilahi",[cite: 1]
+
+      company: "Yayasan Mutiara Titipan Illahi", //[cite: 1]
+
       href: "#",
+
       badges: [],
-      location: "Bandung, Jawa Barat",[cite: 1]
-      title: "Staff Konten & Multimedia",[cite: 1]
-      logoUrl: "/logo-yamuti.png",
-      start: "Agustus 2024",[cite: 1]
-      end: "Agustus 2025",[cite: 1]
+
+      location: "Bandung, Jawa Barat",
+
+      title: "Graphic Designer & Editor", //[cite: 1]
+
+      logoUrl: "Yamuti-Logo.png",
+
+      start: "Agustus 2024", //[cite: 1]
+
+      end: "September 2025", //[cite: 1]
+
       description:
-        "Merencanakan dan mengelola konten media sosial yayasan secara terstruktur dari ideasi hingga publikasi. Memproduksi video, menyusun copywriting branding digital, serta mendokumentasikan kegiatan untuk memaksimalkan keterlibatan audiens.",[cite: 1]
+
+        "Merumuskan strategi dan memproduksi aset konten kreatif untuk program donasi digital yang berhasil meningkatkan metrik engagement dan reach organik. Melakukan redesign website dan company profile untuk meningkatkan trust rate donatur.", //[cite: 1]
+
     },
+
     {
-      company: "QUILASHINE",[cite: 1]
+
+      company: "Hiji Moment", //[cite: 1]
+
       href: "#",
+
       badges: [],
-      location: "Bandung, Jawa Barat",[cite: 1]
-      title: "Product Strategist",[cite: 1]
-      logoUrl: "/logo-quilashine.png",
-      start: "Agustus 2024",[cite: 1]
-      end: "Desember 2024",[cite: 1]
+
+      location: "Bandung, Jawa Barat",
+
+      title: "Photographer", //[cite: 1]
+
+      logoUrl: "HijiMoment-Logo.png",
+
+      start: "Juli 2024", //[cite: 1]
+
+      end: "Desember 2025", //[cite: 1]
+
       description:
-        "Melakukan riset pasar industri skincare untuk merumuskan tagline & brand positioning. Merancang konsep photoshoot campaign (brief talent, wardrobe, makeup look) serta mengarahkan dekorasi studio dan ekspresi visual produk agar konsisten.",[cite: 1]
+
+        "Menyediakan jasa fotografi profesional untuk kebutuhan klien, menghasilkan output visual berkualitas tinggi sesuai brief dan target waktu pengerjaan.", //[cite: 1]
+
     },
+
     {
-      company: "Hiji Moment",[cite: 1]
+
+      company: "PT. Dwijaya Mandiri", //[cite: 1]
+
       href: "#",
+
       badges: [],
-      location: "Bandung, Jawa Barat",[cite: 1]
-      title: "Video Editor & Creative Specialist",[cite: 1]
-      logoUrl: "/logo-hijimoment.png",
-      start: "Maret 2024",[cite: 1]
-      end: "Desember 2024",[cite: 1]
+
+      location: "Bandung, Jawa Barat",
+
+      title: "Graphic Designer & Website Administrator", //[cite: 1]
+
+      logoUrl: "Dwimas-Logo.png",
+
+      start: "Agustus 2020", //[cite: 1]
+
+      end: "Agustus 2024", //[cite: 1]
+
       description:
-        "Mengedit video komersial sesuai brief klien dan brand identity. Menyusun moodboard visual serta mengawasi proses pengambilan gambar di lapangan untuk memastikan kualitas hasil akhir.",[cite: 1]
+
+        "Memproduksi aset periklanan omnichannel, materi promosi fisik dan digital, serta berkontribusi dalam perancangan antarmuka digital website & company profile. Mengelola operasional website berbasis WordPress.", //[cite: 1]
+
     },
+
     {
-      company: "Komisi Pemilihan Umum Republik Indonesia (KPU RI)",[cite: 1]
+
+      company: "Quilashine", //[cite: 1]
+
       href: "#",
+
       badges: [],
-      location: "Bandung, Jawa Barat",[cite: 1]
-      title: "Petugas Administrasi & Data Pemilu (KPPS)",[cite: 1]
-      logoUrl: "/logo-kpu.png",
-      start: "Januari 2024",[cite: 1]
-      end: "Desember 2024",[cite: 1]
+
+      location: "Bandung, Jawa Barat",
+
+      title: "Creative Marketing Manager", //[cite: 1]
+
+      logoUrl: "Quilashine-Logo-01.png",
+
+      start: "2024", //[cite: 1]
+
+      end: "2024", //[cite: 1]
+
       description:
-        "Mengelola data pemilih serta mencatat dan merekapitulasi hasil pemungutan suara di tingkat TPS. Memastikan akurasi data dan menjaga kepatuhan penuh terhadap prosedur administrasi kepemiluan.",[cite: 1]
+
+        "Memimpin inisiatif re-branding identitas visual perusahaan untuk memposisikan ulang citra merek agar lebih relevan dan menarik bagi segmentasi pasar generasi muda.", //[cite: 1]
+
     },
-    {
-      company: "DPMPTSP Kota Bandung",[cite: 1]
-      href: "#",
-      badges: [],
-      location: "Kota Bandung",[cite: 1]
-      title: "Public Relations Intern",[cite: 1]
-      logoUrl: "/logo-dpmptsp.png",
-      start: "Juli 2023",[cite: 1]
-      end: "Agustus 2023",[cite: 1]
-      description:
-        "Menyusun content plan bulanan untuk Instagram @bdg.izin, merancang poster dan video harian instansi, melakukan dokumentasi lapangan, serta menganalisis hasil Survey Kepuasan Masyarakat (SKM) Digital.",[cite: 1]
-    },
-    {
-      company: "SMPN 3 Cileunyi",[cite: 1]
-      href: "#",
-      badges: [],
-      location: "Bandung, Jawa Barat",[cite: 1]
-      title: "Teaching Assistant & Environmental Coordinator",[cite: 1]
-      logoUrl: "/logo-smpn3.png",
-      start: "Juni 2018",[cite: 1]
-      end: "Desember 2018",[cite: 1]
-      description:
-        "Mendampingi ekstrakurikuler Green School Team, merencanakan program kerja kebersihan dan lingkungan hidup terstruktur, serta membangun kolaborasi antar-siswa untuk pencapaian standar Sekolah Adiwiyata.",[cite: 1]
-    },
+
   ],
 
-  education: [
+ education: [
+
     {
-      school: "Universitas Nurtanio Bandung",[cite: 1]
+
+      school: "Universitas Nurtanio Bandung", //[cite: 1]
+
       href: "#",
-      degree: "S1 Ilmu Administrasi Negara",[cite: 1]
-      logoUrl: "/logo-unnur.png",
-      start: "2021",[cite: 1]
-      end: "2025",[cite: 1]
+
+      degree: "S1 Ilmu Administrasi Negara", //[cite: 1]
+
+      logoUrl: "Unnur-Logo.png",
+
+      start: "2022", //[cite: 1]
+
+      end: "2026", //[cite: 1]
+
     },
+
+    {
+
+      school: "SMK Bakti Nusantara 666", //[cite: 1]
+
+      href: "#",
+
+      degree: "Rekayasa Perangkat Lunak", //[cite: 1]
+
+      logoUrl: "LOGO-BN-666.png",
+
+      start: "2017", //[cite: 1]
+
+      end: "2020", //[cite: 1]
+
+    },
+
   ],
 
   projects: [] as {
-    title: string;
-    href?: string;
-    dates?: string;
-    active?: boolean;
-    description?: string;
-    technologies?: readonly string[];
-    links?: readonly { type?: string; href: string; icon?: any }[];
-    image?: string;
-    video?: string;
-  }[],
+
+  title: string;
+
+  href?: string;
+
+  dates?: string;
+
+  active?: boolean;
+
+  description?: string;
+
+  technologies?: readonly string[];
+
+  links?: readonly { type?: string; href: string; icon?: any }[];
+
+  image?: string;
+
+  video?: string;
+
+}[],
+
   hackathons: [] as any[],
-} as const;
+
+} as const; 
+
