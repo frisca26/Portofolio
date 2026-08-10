@@ -84,7 +84,7 @@ skills: [
     badges: [],
     location: "Bandung, Jawa Barat",
     title: "Staf Tata Kelola Digital dan Konten Kreator",
-    logoUrl: "KDMP-LOGO.jpg",
+    logoUrl: "KOPDES-LOGO.jpg",
     start: "Agustus 2025",
     end: "Desember 2025",
     description:
