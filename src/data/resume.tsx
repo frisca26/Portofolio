@@ -22,7 +22,7 @@ export const DATA = {
     "Digital Strategist & Content Creator dengan pengalaman dalam mengembangkan konsep, branding, dan konten multimedia.", //
   summary:
     "Digital Strategist & Content Creator dengan pengalaman dalam mengembangkan konsep, strategi konten, dan visual untuk membangun digital presence yang konsisten. Terbiasa mengelola proses kreatif dari ide, produksi, hingga publikasi.", //[cite: 1]
-  avatarUrl: "/aldienpp.jpg",
+  avatarUrl: "/FriscaPP.jpg",
 skills: [
   { name: "Graphic Design & Visual Branding", icon: null },
   { name: "Video Editing", icon: null },
