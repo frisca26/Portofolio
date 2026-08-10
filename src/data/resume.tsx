@@ -15,7 +15,7 @@ import { Csharp } from "@/components/ui/svgs/csharp";
 export const DATA = {
   name: "Frisca Balqis'tya Dharma", //
   initials: "FBA",
-  url: "https://khalidaldien.vercel.app", //
+  url: "https://friscabalqistyadharma.vercel.app", //
   location: "Kab. Bandung, Jawa Barat", //
   locationLink: "https://www.google.com/maps/place/Bandung",
   description:
@@ -37,40 +37,40 @@ skills: [
 ],
  navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/AldienResumeATS.pdf", icon: FileText, label: "Resume" },
+    { href: "/CV_Frisca_Balqis_tya_Dharma_ATS.pdf", icon: FileText, label: "Resume" },
     { href: "https://drive.google.com/drive/folders/1xT34zFxnnRKm4m9ppz3NdxleIjhvJqh-?usp=drive_link", icon: FileText , label: "Portofolio" },
   ],
   contact: {
-    email: "kaaldien@gmail.com", //[cite: 1]
-    tel: "+628814522919", //[cite: 1]
+    email: "friscaworkspace@gmail.com", //[cite: 1]
+    tel: "0881-0238-27191", //[cite: 1]
     social: {
       LinkedIn: {
         name: "LinkedIn",
-        url: "http://www.linkedin.com/in/khalidaldien",
+        url: "www.linkedin.com/in/friscabalqistyadharma",
         icon: Icons.linkedin,
         navbar: true,
       },
       Instagram: {
         name: "Instagram",
-        url: "http://instagram.com/alldie.n",
+        url: "http://instagram.com/",
         icon: Icons.instagram,
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://www.youtube.com/@alldie.n",
+        url: "https://www.youtube.com/@friscabalqistyadharma9716",
         icon: Icons.youtube,
         navbar: true,
       },
       TikTok: {
         name: "TikTok",
-        url: "https://www.tiktok.com/@alldie.n",
+        url: "https://www.tiktok.com/",
         icon: Icons.tiktok,
         navbar: true,
       },
       email: {
         name: "Send Email",
-        url: "mailto:kaaldien@gmail.com",
+        url: "mailto:friscaworkspace@gmail.com",
         icon: Icons.email,
         navbar: false,
       },
