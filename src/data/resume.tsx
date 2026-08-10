@@ -79,16 +79,16 @@ skills: [
 
  work: [
     {
-      company: "Koperasi Desa Merah Putih (KDMP) Cinunuk",[cite: 3]
+    company: "Koperasi Desa Merah Putih (KDMP) Cinunuk",
     href: "#",
     badges: [],
-    location: "Bandung, Jawa Barat",[cite: 1]
-    title: "Staf Tata Kelola Digital dan Konten Kreator",[cite: 3]
-    logoUrl: "KOPDES-LOGO.jpg",
-    start: "Agustus 2025",[cite: 3]
-    end: "Desember 2025",[cite: 3]
+    location: "Bandung, Jawa Barat",
+    title: "Staf Tata Kelola Digital dan Konten Kreator",
+    logoUrl: "KDMP-LOGO.jpg",
+    start: "Agustus 2025",
+    end: "Desember 2025",
     description:
-      "Membuat dan mengelola konten digital serta strategi branding lembaga di media sosial. Memproduksi konten multimedia (video shooting & editing) untuk promosi, serta berkontribusi meningkatkan reputasi lembaga hingga terpilih menjadi narasumber & tuan rumah pelatihan KEMENDAGRI.",[cite: 3]
+      "Membuat dan mengelola konten digital serta strategi branding lembaga di media sosial. Memproduksi konten multimedia (video shooting & editing) untuk promosi, serta berkontribusi meningkatkan reputasi lembaga hingga terpilih menjadi narasumber & tuan rumah pelatihan KEMENDAGRI.",
   },
     {
       company: "Yayasan Mutiara Titipan Illahi", //[cite: 1]
