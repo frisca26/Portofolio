@@ -116,18 +116,6 @@ export const DATA = {
         "Mengedit video komersial berdasarkan brief klien dan identitas merek, menyusun moodboard serta mengawasi detail visual saat pengambilan gambar di lapangan untuk menjaga kualitas hasil akhir.",
     },
     {
-      company: "DPMPTSP Kota Bandung",
-      href: "#",
-      badges: [],
-      location: "Bandung, Jawa Barat",
-      title: "Public Relations",
-      logoUrl: "DPMPTSP-LOGO.png",
-      start: "Juli 2023",
-      end: "Agustus 2023",
-      description:
-        "Menyusun content plan bulanan untuk Instagram @bdg.izin, mengedit poster dan video harian instansi, mendokumentasikan kegiatan di lapangan, serta menganalisis hasil Survey Kepuasan Masyarakat (SKM) Digital.",
-    },
-    {
       company: "Quilashine",
       href: "#",
       badges: [],
@@ -138,6 +126,18 @@ export const DATA = {
       end: "Desember 2024",
       description:
         "Melakukan riset pasar industri skincare untuk merumuskan tagline & brand positioning, merancang konsep photoshoot campaign (brief talent, wardrobe, makeup look), serta mengatur dekorasi studio dan styling untuk menghasilkan visual produk yang menarik.",
+    },
+    {
+      company: "DPMPTSP Kota Bandung",
+      href: "#",
+      badges: [],
+      location: "Bandung, Jawa Barat",
+      title: "Public Relations",
+      logoUrl: "DPMPTSP-LOGO.png",
+      start: "Juli 2023",
+      end: "Agustus 2023",
+      description:
+        "Menyusun content plan bulanan untuk Instagram @bdg.izin, mengedit poster dan video harian instansi, mendokumentasikan kegiatan di lapangan, serta menganalisis hasil Survey Kepuasan Masyarakat (SKM) Digital.",
     },
     {
       company: "SMPN 3 Cileunyi",
