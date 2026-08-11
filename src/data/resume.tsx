@@ -98,8 +98,8 @@ export const DATA = {
       location: "Bandung, Jawa Barat",
       title: "Petugas Administrasi & Data Pemilu (KPPS)",
       logoUrl: "KPU-LOGO.png",
-      start: "Januari 2024 & November 2024",
-      end: "Februari 2024 & Desember 2024",
+      start: "Januari & November 2024",
+      end: "Februari & Desember 2024",
       description:
         "Mengelola data pemilih serta mencatat dan merekapitulasi hasil pemungutan suara di tingkat TPS. Memastikan akurasi data pemilih dan hasil suara serta menjaga kepatuhan penuh terhadap prosedur kepemiluan yang berlaku.",
     },
