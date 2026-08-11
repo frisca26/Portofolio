@@ -102,41 +102,65 @@ skills: [
       description:
         "Merumuskan strategi dan memproduksi aset konten kreatif untuk program donasi digital yang berhasil meningkatkan metrik engagement dan reach organik. Melakukan redesign website dan company profile untuk meningkatkan trust rate donatur.", //[cite: 1]
     },
+       {
+      company: "Komisi Pemilihan Umum Republik Indonesia (KPU RI)", //[cite: 1]
+      href: "#",
+      badges: [],
+      location: "Bandung, Jawa Barat",
+      title: "Petugas Administrasi & Data Pemilu (KPPS)", //[cite: 1]
+      logoUrl: "KPU-LOGO.png",
+      start: "Januari 2024 & November 2024", //[cite: 1]
+      end: "Februari 2024 & Desember 2024", //[cite: 1]
+      description:
+        "Mengelola data pemilih serta mencatat dan merekapitulasi hasil pemungutan suara di tingkat TPS. Memastikan akurasi data pemilih dan hasil suara serta menjaga kepatuhan penuh terhadap prosedur kepemiluan yang berlaku.", //[cite: 1]
+    },
     {
       company: "Hiji Moment", //[cite: 1]
       href: "#",
       badges: [],
       location: "Bandung, Jawa Barat",
-      title: "Photographer", //[cite: 1]
+      title: "Editor Video & Creative", //[cite: 1]
       logoUrl: "HijiMoment-Logo.png",
-      start: "Juli 2024", //[cite: 1]
-      end: "Desember 2025", //[cite: 1]
+      start: "Maret 2024", //[cite: 1]
+      end: "Desember 2024", //[cite: 1]
       description:
-        "Menyediakan jasa fotografi profesional untuk kebutuhan klien, menghasilkan output visual berkualitas tinggi sesuai brief dan target waktu pengerjaan.", //[cite: 1]
+        "Mengedit video komersial berdasarkan brief klien dan identitas merek, menyusun moodboard serta mengawasi detail visual saat pengambilan gambar di lapangan untuk menjaga kualitas hasil akhir.",[cite: 1]
     },
     {
-      company: "PT. Dwijaya Mandiri", //[cite: 1]
+      company: "DPMPTSP Kota Bandung", //[cite: 1]
       href: "#",
       badges: [],
       location: "Bandung, Jawa Barat",
-      title: "Graphic Designer & Website Administrator", //[cite: 1]
-      logoUrl: "Dwimas-Logo.png",
-      start: "Agustus 2020", //[cite: 1]
-      end: "Agustus 2024", //[cite: 1]
+      title: "Public Relations", //[cite: 1]
+      logoUrl: "DPMPTSP-LOGO.png",
+      start: "Juli 2023", //[cite: 1]
+      end: "Agustus 2023", //[cite: 1]
       description:
-        "Memproduksi aset periklanan omnichannel, materi promosi fisik dan digital, serta berkontribusi dalam perancangan antarmuka digital website & company profile. Mengelola operasional website berbasis WordPress.", //[cite: 1]
+        "Menyusun content plan bulanan untuk Instagram @bdg.izin, mengedit poster dan video harian instansi, mendokumentasikan kegiatan di lapangan, serta menganalisis hasil Survey Kepuasan Masyarakat (SKM) Digital.",[cite: 1]
     },
     {
       company: "Quilashine", //[cite: 1]
       href: "#",
       badges: [],
       location: "Bandung, Jawa Barat",
-      title: "Creative Marketing Manager", //[cite: 1]
+      title: "Product Strategist", //[cite: 1]
       logoUrl: "Quilashine-Logo-01.png",
-      start: "2024", //[cite: 1]
-      end: "2024", //[cite: 1]
+      start: "Agustus 2024", //[cite: 1]
+      end: "Desember 2024", //[cite: 1]
       description:
-        "Memimpin inisiatif re-branding identitas visual perusahaan untuk memposisikan ulang citra merek agar lebih relevan dan menarik bagi segmentasi pasar generasi muda.", //[cite: 1]
+        "Melakukan riset pasar industri skincare untuk merumuskan tagline & brand positioning, merancang konsep photoshoot campaign (brief talent, wardrobe, makeup look), serta mengatur dekorasi studio dan styling untuk menghasilkan visual produk yang menarik.",[cite: 1]
+    },
+      {
+      company: "SMPN 3 Cileunyi", //[cite: 1]
+      href: "#",
+      badges: [],
+      location: "Kab. Bandung, Jawa Barat",
+      title: "Teaching Assistant", //[cite: 1]
+      logoUrl: "SMP-LOGO.png",
+      start: "Juni 2018", //[cite: 1]
+      end: "Desember 2018", //[cite: 1]
+      description:
+        "Mendampingi ekstrakurikuler Green School Team, merencanakan program kerja kebersihan dan lingkungan hidup terstruktur, serta membangun kolaborasi antar-siswa untuk pencapaian standar Sekolah Adiwiyata.",[cite: 1]
     },
   ],
  education: [
@@ -145,14 +169,14 @@ skills: [
       href: "#",
       degree: "S1 Ilmu Administrasi Negara", //[cite: 1]
       logoUrl: "Unnur-Logo.png",
-      start: "2022", //[cite: 1]
-      end: "2026", //[cite: 1]
+      start: "2021", //[cite: 1]
+      end: "2025", //[cite: 1]
     },
     {
-      school: "SMK Bakti Nusantara 666", //[cite: 1]
+      school: "SMAN 1 Cileunyi", //[cite: 1]
       href: "#",
-      degree: "Rekayasa Perangkat Lunak", //[cite: 1]
-      logoUrl: "LOGO-BN-666.png",
+      degree: "IPA (Ilmu Pengetahuan Alam)", //[cite: 1]
+      logoUrl: "SMA-LOGO.jpg",
       start: "2017", //[cite: 1]
       end: "2020", //[cite: 1]
     },
