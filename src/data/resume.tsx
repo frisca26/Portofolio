@@ -84,7 +84,7 @@ export const DATA = {
       href: "#",
       badges: [],
       location: "Bandung, Jawa Barat",
-      title: "Graphic Designer & Editor",
+      title: "Staf Konten & Multimedia",
       logoUrl: "Yamuti-Logo.png",
       start: "Agustus 2024",
       end: "September 2025",
